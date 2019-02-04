@@ -1,3 +1,3 @@
-# iuer
+# sofui
 
-Create design system online, and generate React component meanwhile.
+A pleasant React UI library 🥤

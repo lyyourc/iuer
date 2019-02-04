@@ -1,7 +1,7 @@
 {
   "name": "sofui",
   "version": "1.0.0",
-  "description": "Create design system online, and generate React component meanwhile.",
+  "description": "A pleasant React UI library",
   "main": "lib/index.js",
   "module": "esm/index.js",
   "files": [
